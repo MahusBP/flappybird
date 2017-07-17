@@ -1,3 +1,0 @@
-/home/mhs/Develop/C++/flappybird/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/mhs/Develop/C++/flappybird/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mhs/Develop/C++/flappybird/cmake-build-debug/CMakeFiles/FlappyBird.dir
